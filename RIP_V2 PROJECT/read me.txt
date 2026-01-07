@@ -1,0 +1,34 @@
+(RIP v2 – Part 1) 🔥
+🔹 Networking from Zero – Practical Labs | RIP v2 (Part 1)
+
+Many beginners learn routing protocols theoretically, but real understanding comes from hands-on practice.
+
+In this lab, I implemented RIP v2 dynamic routing to enable communication between multiple networks using Cisco Packet Tracer.
+
+🧠 Lab Objective
+
+Demonstrate RIP v2 dynamic routing between multiple networks and verify end-to-end connectivity.
+
+🔧 What’s implemented:
+
+RIP version 2
+
+no auto-summary
+
+Multiple LAN networks with different subnet sizes
+
+/30 point-to-point link between routers
+
+Full end-to-end ping verification
+
+✅ Result:
+
+All networks successfully communicate with each other, and ping works end-to-end across the entire topology.
+
+📸 Screenshots from the lab are attached
+📁 Full project on GitHub:
+👉 https://github.com/amr-osama123/Network-Labs/tree/RIPv2-Project/RIP_V2%20PROJECT
+
+🔸 اللاب ده بيشرح بروتوكول RIP v2 بطريقة بسيطة وتطبيق عملي، وبيوضح إزاي الشبكات المختلفة تقدر تتواصل باستخدام Dynamic Routing.
+
+#Networking #NetworkingFromZero #RIPv2 #CCNA #NetworkEngineering #Routing #Cisco #PacketTracer
