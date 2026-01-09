@@ -1,0 +1,41 @@
+🚀 Networking from Zero – Practical Labs | Project 2
+
+📌 OSPF v2 Dynamic Routing – Practical Implementation
+
+في المشروع ده طبّقت OSPF v2 بشكل عملي على Multiple Routers مع تصميم شبكة حقيقي، وده ضمن سلسلة
+Networking from Zero – Practical Labs.
+
+🔧 Project Highlights:
+
+Implemented OSPF v2
+
+Multi-area–ready network design
+
+Proper IP addressing & subnetting
+
+End-to-end connectivity (Ping successful between all networks)
+
+Realistic topology simulating enterprise networks
+
+Beginner-friendly & well-structured lab
+
+📚 What this project demonstrates:
+
+Difference between static & dynamic routing
+
+How OSPF builds neighbor relationships
+
+Routing table propagation
+
+Scalable network design concepts
+
+🔗 Lab files & full project on GitHub:
+👉 https://github.com/amr-osama123/Network-Labs
+
+🎯 Next projects in the series:
+
+VLAN & Inter-VLAN Routing
+
+STP & EtherChannel
+
+Advanced OSPF & Network Design
